@@ -3,8 +3,11 @@
 <h1 align="center">
 Hi You 👋, I'm Fajar Fauzian</h1>
 <h3 font-family="Poppins, sans-serif" align="center">A Passionate Frontend Developer From Indonesia</h3>
-<br>
-<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadrizkihasan&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadrizkihasan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamadrizkihasan" alt="muhamadrizkihasan" /></a> </p>
+
 - 🌱 I'm currently learning **JavaScript**
 - 💬 Ask me about **CSS**
 - 😄 Pronouns: he/him
