@@ -28,3 +28,11 @@ Hi You 👋, I'm Fajar Fauzian</h1>
         alt="fajarfauzian"
       />
     </p>
+
+ <p>
+         &nbsp;<img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=fajarfauzian&show_icons=true&locale=en"
+        alt="fajarfauzian"
+      />
+    </p>
