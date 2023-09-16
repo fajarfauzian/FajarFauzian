@@ -3,7 +3,8 @@
 <h1 align="center">
 Hi You 👋, I'm Fajar Fauzian</h1>
 <h3 font-family="Poppins, sans-serif" align="center">A Passionate Frontend Developer From Indonesia</h3>
-
+<br>
+<br>
 - 🌱 I'm currently learning **JavaScript**
 - 💬 Ask me about **CSS**
 - 😄 Pronouns: he/him
