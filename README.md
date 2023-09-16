@@ -2,7 +2,8 @@
 
 <h1 align="center">
 Hi You 👋, I'm Fajar Fauzian</h1>
-<h3 align="center">A Passionate Frontend Developer From Indonesia</h3>
+<!-- <h3 align="center">A Passionate Frontend Developer From Indonesia</h3> -->
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=A Passionate Frontend Developer From Indonesia)" /> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadrizkihasan&label=Profile%20views&color=0e75b6&style=flat" alt="fajarfauzian" /> </p>
 
