@@ -27,10 +27,10 @@ Hi You 👋, I'm Fajar Fauzian</h1>
   <img alt="Html" src="https://img.shields.io/badge/HTML-E55604?style=for-the-badge&logo=html&logoColor=%23F7DF1E"/> 
   <img alt="Css" src="https://img.shields.io/badge/CSS-277BC0?style=for-the-badge&logo=CSS&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Php" src="https://img.shields.io/badge/PHP-00599C?style=for-the-badge&logo=php&logoColor=white"/>
-
 </div>
-
+<br>
    <p>
       <img
         align="left"
