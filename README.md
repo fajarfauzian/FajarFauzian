@@ -24,8 +24,8 @@ Hi You 👋, I'm Fajar Fauzian</h1>
 </p>
 <h3 align="left">Languages :</h3>
 <div align="left">
-  <img alt="Html" src="https://img.shields.io/badge/HTML-23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E"/> 
-  <img alt="Css" src="https://img.shields.io/badge/CSS-2314354C.svg?style=for-the-badge&logo=CSS&logoColor=white"/>
+  <img alt="Html" src="https://img.shields.io/badge/HTML-E55604?style=for-the-badge&logo=html&logoColor=%23F7DF1E"/> 
+  <img alt="Css" src="https://img.shields.io/badge/CSS-277BC0?style=for-the-badge&logo=CSS&logoColor=white"/>
   <img alt="Php" src="https://img.shields.io/badge/PHP-00599C?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
