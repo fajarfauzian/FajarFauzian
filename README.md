@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <h1 align="center">
-Hi You 👋, I'm Fajar Fauzian</h1>
+Hi You!! 👋, I'm Fajar Fauzian</h1>
 <h3 font-family="Poppins, sans-serif" align="center">A Passionate Frontend Developer From Indonesia</h3>
 
 <h4 align="center">Success in life can only be obtained if someone is willing to fight hard to get it.</h4>
