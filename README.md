@@ -4,6 +4,8 @@
 Hi You!! 👋, I'm Fajar Fauzian</h1>
 <h3 font-family="Poppins, sans-serif" align="center">A Passionate Frontend Developer From Indonesia</h3>
 
+<h4 align="center">The reason I want to enter Vocational School Wikrama Bogor is because I feel interested and comfortable with the conditions and schools here. The steps were broad, and I majored in software and game development or now called ppg which is said to be everyone's favorite major.</h4>
+
 <h4
       align="center"
       style="color: lightgreen; font-family: Poppins, sans-serif"
