@@ -10,7 +10,7 @@ Hi You!! 👋, I'm Fajar Fauzian</h1>
       steps were broad, and I majored in software and game development or now
       called ppg which is said to be everyone's favorite major. If you want to
       be friends with me, just contact my
-      <a href="https://www.instagram.com/zfosix/">Instagramku</a>
+      <a  style="text-decoration: none;" href="https://www.instagram.com/zfosix/">Instagramku</a>
 <h4
       align="center"
       style="color: lightgreen; font-family: Poppins, sans-serif"
