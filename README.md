@@ -4,13 +4,19 @@
   Fajar Fauzian
 </a>
 <h3 align="center">A Passionate Frontend Developer From Indonesia</h3>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/Computer.gif" alt="fajarfauzian" hight="300" width="700" alt="GIF" align="center">
+
+![Uploading Computer.gif…]()
+
+<hr>
+
 </h1
 
-- 🌱 I'm currently learning **JavaScript**
+  - 🌱 I'm currently learning **JavaScript**
   - 💬 Ask me about **CSS**
   - 😄 Pronouns: he/him
   - ⚡ Interesting fact : **I think I am an introvert**
+
+<hr>
 
 <div align="left">
     <h3>Connect with me :</h3>
@@ -85,4 +91,5 @@
       </td>
     </tr> 
     </table>
+    <hr>
 
