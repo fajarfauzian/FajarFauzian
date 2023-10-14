@@ -5,11 +5,11 @@
 </a>
 <h3 align="center">A Passionate Frontend Developer From Indonesia</h3>
 
+</h1>
 
 
 <hr>
 
-</h1
 
   - 🌱 I'm currently learning **JavaScript**
   - 💬 Ask me about **CSS**
