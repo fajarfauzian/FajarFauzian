@@ -1,12 +1,10 @@
-<!-- ### Hi there 👋 -->
-
 <h1 align="center">
   👋 Hi, I'm 
 <a href="https://www.instagram.com/zfosix/">
   Fajar Fauzian
 </a>
 <h3 >A Passionate Frontend Developer From Indonesia</h3>
-<img src="img/Computer.gif" alt="fajarfauzian" hight="300" width="700" alt="GIF" align="center">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/Computer.gif" alt="fajarfauzian" hight="300" width="700" alt="GIF" align="center">
 </h1
 
 <div align="left">
