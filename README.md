@@ -3,9 +3,14 @@
 <a href="https://www.instagram.com/zfosix/">
   Fajar Fauzian
 </a>
-<h3 >A Passionate Frontend Developer From Indonesia</h3>
+<h3 align="center">A Passionate Frontend Developer From Indonesia</h3>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/Computer.gif" alt="fajarfauzian" hight="300" width="700" alt="GIF" align="center">
 </h1
+
+- 🌱 I'm currently learning **JavaScript**
+  - 💬 Ask me about **CSS**
+  - 😄 Pronouns: he/him
+  - ⚡ Interesting fact : **I think I am an introvert**
 
 <div align="left">
     <h3>Connect with me :</h3>
