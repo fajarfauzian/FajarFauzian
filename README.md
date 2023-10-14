@@ -5,7 +5,7 @@
 </a>
 <h3 align="center">A Passionate Frontend Developer From Indonesia</h3>
 
-![Uploading Computer.gif…]()
+
 
 <hr>
 
@@ -91,5 +91,5 @@
       </td>
     </tr> 
     </table>
-    <hr>
+  
 
