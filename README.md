@@ -5,7 +5,7 @@
           </a>
           <h3 align="center">A Passionate Frontend Developer From Indonesia</h3>
      </h1>
- <img align="right" alt="Coding" width="400"
+ <img align="right" alt="Coding" width="350"
           src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <hr>
