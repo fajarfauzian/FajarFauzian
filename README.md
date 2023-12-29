@@ -9,10 +9,10 @@
           src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
  <hr>
-     🌱 I'm currently learning **JavaScript**
-     💬 Ask me about **CSS**
-     😄 Pronouns: he/him
-     ⚡ Interesting fact : **I think I am an introvert**     
+    - 🌱 I'm currently learning **JavaScript**
+    - 💬 Ask me about **CSS**
+    - 😄 Pronouns: he/him
+    - ⚡ Interesting fact : **I think I am an introvert**     
 <hr>
 
 <div align="left">
