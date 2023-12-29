@@ -5,12 +5,10 @@
           </a>
           <h3 align="center">A Passionate Frontend Developer From Indonesia</h3>
      </h1>
-
-
- <hr>
-     <img align="right" alt="Coding" width="400"
+ <img align="right" alt="Coding" width="400"
           src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+ <hr>
      🌱 I'm currently learning **JavaScript**
      💬 Ask me about **CSS**
      😄 Pronouns: he/him
@@ -88,7 +86,7 @@
                          alt="fajarfauzian" />
                </td>
                <td>
-                    &nbsp;<img align="center"
+                    <img align="center"
                          src="https://github-readme-stats.vercel.app/api?username=fajarfauzian&show_icons=true&locale=en&theme=tokyonight"
                          alt="fajarfauzian" />
                </td>
