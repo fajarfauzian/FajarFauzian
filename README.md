@@ -8,12 +8,21 @@
  <img align="right" alt="Coding" width="400"
           src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
- <hr>
-    - 🌱 I'm currently learning **JavaScript**
-    - 💬 Ask me about **CSS**
-    - 😄 Pronouns: he/him
-    - ⚡ Interesting fact : **I think I am an introvert**     
 <hr>
+
+  - 🌱 I'm currently learning **JavaScript**
+     
+  - 💬 Ask me about **CSS**
+     
+  - 😄 Pronouns: he/him
+     
+  - 📫 How to reach me **fajarfauzian53@gmail.com**
+     
+  - ⚡ Interesting fact : **I think I am an introvert**     
+
+<hr>
+       
+
 
 <div align="left">
     <h3>Connect with me :</h3>
