@@ -1,21 +1,20 @@
-<h1 align="center">
-  👋 Hi, I'm 
-<a href="https://www.instagram.com/zfosix/">
-  Fajar Fauzian
-</a>
-<h3 align="center">A Passionate Frontend Developer From Indonesia</h3>
-
-</h1>
-
-
-<hr>
+ <h1 align="center">
+          👋 Hello, I'm
+          <a href="https://www.instagram.com/zfosix/">
+               Fajar Fauzian
+          </a>
+          <h3 align="center">A Passionate Frontend Developer From Indonesia</h3>
+     </h1>
 
 
-  - 🌱 I'm currently learning **JavaScript**
-  - 💬 Ask me about **CSS**
-  - 😄 Pronouns: he/him
-  - ⚡ Interesting fact : **I think I am an introvert**
+ <hr>
+     <img align="right" alt="Coding" width="400"
+          src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+     🌱 I'm currently learning **JavaScript**
+     💬 Ask me about **CSS**
+     😄 Pronouns: he/him
+     ⚡ Interesting fact : **I think I am an introvert**     
 <hr>
 
 <div align="left">
@@ -81,15 +80,24 @@
   </div>
   <br>
 
-  <table align="left">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fajarfauzian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fajarfauzian&layout=compact&langs_count=8&theme=algolia"/>
-      </td>
-    </tr> 
-    </table>
+<table align="left">
+          <tr>
+               <td>
+                    <img align="left"
+                         src="https://github-readme-stats.vercel.app/api/top-langs?username=fajarfauzian&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+                         alt="fajarfauzian" />
+               </td>
+               <td>
+                    &nbsp;<img align="center"
+                         src="https://github-readme-stats.vercel.app/api?username=fajarfauzian&show_icons=true&locale=en&theme=tokyonight"
+                         alt="fajarfauzian" />
+               </td>
+               <td>
+                    <img align="center"
+                         src="https://github-readme-streak-stats.herokuapp.com/?user=fajarfauzian&theme=tokyonight"
+                         alt="fajarfauzian" />
+               </td>
+          </tr>
+     </table>
   
 
